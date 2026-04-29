@@ -1,0 +1,21 @@
+# Unity 标准忽略文件
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Pp]ackage[Cc]ache/
+[Bb]uild/
+[Bb]uilds/
+
+# 代码编辑器文件
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
